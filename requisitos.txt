@@ -1,0 +1,11 @@
+Crear una red social de blogging simple y minimalista. En el se podrán crear y compartir contenidos sin ningún tipo de censura. Se podrá compartir texto, imágenes, audios y videos.
+
+Además los usuarios podrán seguir a otros usuarios para que estén al tanto de las novedades que crea cada usuario. El registro y login en la aplicación se podrá hacer de la manera tradicional mediante usuario y contraseña, así como con las cuentas de las redes sociales: Facebook, Twitter y con una cuenta de Google.
+
+Se pretende que el contenido que crean los usuarios sea la parte fundamental del sitio web, de ahí la facilidad de uso a la hora de crear los contenidos. El contenido es el protagonista.
+
+El perfil al que va dirigido este servicio de blogging, es un usuario que tenga mas de 25 años, con un marcado perfil tecnológico o que ya este familiarizado con las redes sociales. 
+
+Los usuarios también podrán comentar artículos de otros usuarios.
+
+
